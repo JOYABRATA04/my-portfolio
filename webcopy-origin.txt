@@ -1,0 +1,384 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\ajax\libs\font-awesome\6.2.1\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,600;0,700;1,400&family=Open+Sans:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,900&family=Prata&display=swap
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8c4A.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\barlow\v12\7cHqv4kjgoGqM7E30-8c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-kc4A.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\barlow\v12\7cHqv4kjgoGqM7E3p-kc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\barlow\v12\7cHqv4kjgoGqM7E3t-4c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Ccs8.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\barlow\v12\7cHrv4kjgoGqM7E_Ccs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\poppins\v23\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prata/v21/6xKhdSpbNNCT-vWI.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\prata\v21\6xKhdSpbNNCT-vWI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://ractic.netlify.app/?storefront=envato-elements
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://ractic.netlify.app/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://ractic.netlify.app/assets/css/backToTop.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\css\backToTop.css
+Content Type: text/css
+
+Uri: https://ractic.netlify.app/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ractic.netlify.app/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://ractic.netlify.app/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://ractic.netlify.app/assets/css/style.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://ractic.netlify.app/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://ractic.netlify.app/assets/img/about/about-01.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\about\about-01.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/about/about-02.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\about\about-02.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/about/figma.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\about\figma.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/about/photoshop.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\about\photoshop.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/about/xd.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\about\xd.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/blog/blog1.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/blog/blog2.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/blog/blog3.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/category/cat-01.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\category\cat-01.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/category/cat-02.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\category\cat-02.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/category/cat-03.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\category\cat-03.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/fav.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\fav.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/hero/trophy.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\hero\trophy.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/hero/with-box.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\hero\with-box.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/icons/arrow.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\icons\arrow.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/s-bg.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\s-bg.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/s1.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\s1.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/s2.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\s2.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/s3.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\s3.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/s4.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\s4.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/service-01.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\service-01.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/service-02.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\service-02.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/service-03.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\service-03.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/service/service-04.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\service\service-04.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/skills/skill-thumb.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\skills\skill-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/testimonial/test-bg-lef.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\testimonial\test-bg-lef.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/testimonial/test-bg-right.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\testimonial\test-bg-right.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/testimonial/test1.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\testimonial\test1.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/testimonial/test2.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\testimonial\test2.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/testimonial/test3.png
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\testimonial\test3.png
+Content Type: image/png
+
+Uri: https://ractic.netlify.app/assets/img/works/1.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\works\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/works/2.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\works\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/works/3.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\works\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/works/4.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\works\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/works/5.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\works\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/img/works/6.jpg
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\img\works\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ractic.netlify.app/assets/js/backToTop.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\backToTop.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/counterup.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\counterup.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/jquery.meanmenu.min.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\jquery.meanmenu.min.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/jquery.scrollUp.min.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/jqueryv3.6.0.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\jqueryv3.6.0.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/main.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/progress-bar.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\progress-bar.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://ractic.netlify.app/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\ractic.netlify.app\assets\js\wow.min.js
+Content Type: application/javascript
+
